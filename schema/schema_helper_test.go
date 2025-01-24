@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"gorm.io/gorm/schema"
-	"gorm.io/gorm/utils/tests"
+	"github.com/goforkit/gorm/schema"
+	"github.com/goforkit/gorm/utils/tests"
 )
 
 func checkSchema(t *testing.T, s *schema.Schema, v schema.Schema, primaryFields []string) {

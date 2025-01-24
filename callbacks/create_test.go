@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"gorm.io/gorm"
-	"gorm.io/gorm/clause"
-	"gorm.io/gorm/schema"
+	"github.com/goforkit/gorm"
+	"github.com/goforkit/gorm/clause"
+	"github.com/goforkit/gorm/schema"
 )
 
 var schemaCache = &sync.Map{}

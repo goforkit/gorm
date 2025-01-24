@@ -1,11 +1,11 @@
 package tests
 
 import (
-	"gorm.io/gorm"
-	"gorm.io/gorm/callbacks"
-	"gorm.io/gorm/clause"
-	"gorm.io/gorm/logger"
-	"gorm.io/gorm/schema"
+	"github.com/goforkit/gorm"
+	"github.com/goforkit/gorm/callbacks"
+	"github.com/goforkit/gorm/clause"
+	"github.com/goforkit/gorm/logger"
+	"github.com/goforkit/gorm/schema"
 )
 
 type DummyDialector struct {

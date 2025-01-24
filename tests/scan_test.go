@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"gorm.io/gorm"
-	. "gorm.io/gorm/utils/tests"
+	"github.com/goforkit/gorm"
+	. "github.com/goforkit/gorm/utils/tests"
 )
 
 type PersonAddressInfo struct {

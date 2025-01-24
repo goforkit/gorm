@@ -1,4 +1,4 @@
-module gorm.io/gorm/tests
+module github.com/goforkit/gorm/tests
 
 go 1.18
 
@@ -7,11 +7,8 @@ require (
 	github.com/jinzhu/now v1.1.5
 	github.com/lib/pq v1.10.9
 	github.com/stretchr/testify v1.9.0
-	gorm.io/driver/mysql v1.5.7
-	gorm.io/driver/postgres v1.5.9
-	gorm.io/driver/sqlite v1.5.6
-	gorm.io/driver/sqlserver v1.5.3
-	gorm.io/gorm v1.25.10
+	github.com/goforkit/mysql v1.5.7
+	github.com/goforkit/gorm v1.25.10
 )
 
 require (
@@ -34,7 +31,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace gorm.io/gorm => ../
+replace github.com/goforkit/gorm => ../
 
 replace github.com/jackc/pgx/v5 => github.com/jackc/pgx/v5 v5.4.3
 

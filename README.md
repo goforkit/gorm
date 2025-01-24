@@ -5,7 +5,7 @@ The fantastic ORM library for Golang, aims to be developer friendly.
 [![go report card](https://goreportcard.com/badge/github.com/go-gorm/gorm "go report card")](https://goreportcard.com/report/github.com/go-gorm/gorm)
 [![test status](https://github.com/go-gorm/gorm/workflows/tests/badge.svg?branch=master "test status")](https://github.com/go-gorm/gorm/actions)
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/gorm.io/gorm?tab=doc)
+[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/goforkit/gorm?tab=doc)
 
 ## Overview
 
@@ -26,12 +26,12 @@ The fantastic ORM library for Golang, aims to be developer friendly.
 
 ## Getting Started
 
-* GORM Guides [https://gorm.io](https://gorm.io)
-* Gen Guides [https://gorm.io/gen/index.html](https://gorm.io/gen/index.html)
+* GORM Guides [https://github.com/goforkit](https://github.com/goforkit)
+* Gen Guides [https://github.com/goforkit/gen/index.html](https://github.com/goforkit/gen/index.html)
 
 ## Contributing
 
-[You can help to deliver a better GORM, check out things you can do](https://gorm.io/contribute.html)
+[You can help to deliver a better GORM, check out things you can do](https://github.com/goforkit/contribute.html)
 
 ## Contributors
 

@@ -5,8 +5,8 @@ import (
 	"errors"
 	"testing"
 
-	"gorm.io/gorm"
-	. "gorm.io/gorm/utils/tests"
+	"github.com/goforkit/gorm"
+	. "github.com/goforkit/gorm/utils/tests"
 )
 
 func TestNamedArg(t *testing.T) {

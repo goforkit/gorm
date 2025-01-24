@@ -6,9 +6,9 @@ import (
 	"encoding/json"
 	"reflect"
 
+	"github.com/goforkit/gorm/clause"
+	"github.com/goforkit/gorm/schema"
 	"github.com/jinzhu/now"
-	"gorm.io/gorm/clause"
-	"gorm.io/gorm/schema"
 )
 
 type DeletedAt sql.NullTime

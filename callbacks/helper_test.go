@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"gorm.io/gorm"
-	"gorm.io/gorm/clause"
+	"github.com/goforkit/gorm"
+	"github.com/goforkit/gorm/clause"
 )
 
 func TestLoadOrStoreVisitMap(t *testing.T) {

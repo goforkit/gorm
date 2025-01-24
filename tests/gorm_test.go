@@ -3,9 +3,9 @@ package tests_test
 import (
 	"testing"
 
-	"gorm.io/driver/mysql"
+	"github.com/goforkit/mysql"
 
-	"gorm.io/gorm"
+	"github.com/goforkit/gorm"
 )
 
 func TestOpen(t *testing.T) {

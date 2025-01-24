@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"gorm.io/gorm/clause"
+	"github.com/goforkit/gorm/clause"
 )
 
 // reg match english letters and midline
